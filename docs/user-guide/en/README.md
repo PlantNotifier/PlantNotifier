@@ -1,16 +1,23 @@
 # PlantCare User Guide (EN)
 
-Use flow guides for common tasks and reference sections for page-by-page UI
-descriptions.
+Use this page as the main navigation hub for the English documentation.
 
-## Basic Use Cases
+Quick jumps: [Click By Goal](#click-by-goal) · [Click By Screen](#click-by-screen) · [Click For Support](#click-for-support)
+
+## Click Here First
+
+- New to PlantCare: [Overview and first access](sections/overview.md)
+- Need to connect the device: [Get online and connect to home Wi-Fi](flows/basic/get-online-and-connect-home-wifi.md)
+- Want your first alert quickly: [Add your first alarm rule](flows/basic/add-first-alarm.md)
+- Want Telegram notifications: [Set up Telegram notifications](flows/basic/setup-telegram-notifications.md)
+- Want all screen references: [Reference Sections](#click-by-screen)
+- Need help or login details: [Click For Support](#click-for-support)
+
+## Click By Goal
 
 - [Get online and connect to home Wi-Fi](flows/basic/get-online-and-connect-home-wifi.md)
 - [Add your first alarm rule](flows/basic/add-first-alarm.md)
 - [Set up Telegram notifications](flows/basic/setup-telegram-notifications.md)
-
-## Additional Use Cases
-
 - [Set up Webhook notifications](flows/additional/set-up-webhook-notifications.md)
 - [Set up Pushover notifications](flows/additional/set-up-pushover-notifications.md)
 - [Set up Heartbeat monitor](flows/additional/set-up-heartbeat-monitor.md)
@@ -20,7 +27,7 @@ descriptions.
 - [Customize Matrix LED alerts](flows/additional/customize-matrix-led.md)
 - [Download data logs](flows/additional/download-data-logs.md)
 
-## Reference Sections
+## Click By Screen
 
 - [Overview and first access](sections/overview.md)
 - [Wi-Fi configuration](sections/wifi.md)
@@ -44,7 +51,7 @@ descriptions.
 - [Users](sections/system/users.md) (admin only)
 - [File Manager](sections/system/file-manager.md) (admin-oriented, can be disabled)
 
-## Special / Support Screens
+## Click For Support
 
 - [Support appendix](appendix/README.md)
 - [Behavior and availability](appendix/behavior-and-availability.md)
